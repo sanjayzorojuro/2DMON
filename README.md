@@ -108,7 +108,6 @@ Sanjayzorojuro/
 
 #  🖼️ Screenshots
 
----
 
 ![Title](res/Gameplay/1.png)
 
@@ -169,6 +168,7 @@ Sanjayzorojuro/
 ![Title](res/Gameplay/29.png)
 
 
+---
 
  #  🧩 Technologies Used
 
