@@ -110,7 +110,63 @@ Sanjayzorojuro/
 
 ---
 
-(res/Gameplay/1.png)
+![Title](res/Gameplay/1.png)
+
+![Title](res/Gameplay/2.png)
+
+![Title](res/Gameplay/3.png)
+
+![Title](res/Gameplay/4.png)
+
+![Title](res/Gameplay/5.png)
+
+![Title](res/Gameplay/6.png)
+
+![Title](res/Gameplay/7.png)
+
+![Title](res/Gameplay/8.png)
+
+![Title](res/Gameplay/9.png)
+
+![Title](res/Gameplay/10.png)
+
+![Title](res/Gameplay/11.png)
+
+![Title](res/Gameplay/12.png)
+
+![Title](res/Gameplay/13.png)
+
+![Title](res/Gameplay/14.png)
+
+![Title](res/Gameplay/15.png)
+
+![Title](res/Gameplay/16.png)
+
+![Title](res/Gameplay/17.png)
+
+![Title](res/Gameplay/18.png)
+
+![Title](res/Gameplay/19.png)
+
+![Title](res/Gameplay/20.png)
+
+![Title](res/Gameplay/21.png)
+
+![Title](res/Gameplay22.png)
+
+![Title](res/Gameplay/23.png)
+
+![Title](res/Gameplay/24.png)
+
+![Title](res/Gameplay/25.png)
+
+![Title](res/Gameplay/26.png)
+
+![Title](res/Gameplay/27.png)
+
+![Title](res/Gameplay/28.png)
+
+![Title](res/Gameplay/29.png)
 
 
 
