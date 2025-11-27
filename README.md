@@ -110,7 +110,7 @@ Sanjayzorojuro/
 
 ---
 
-<img width="1913" height="933"  src="https://github.com/user-attachments/res/Gameplay/1.png" />
+(res/Gameplay/1.png)
 
 
 
