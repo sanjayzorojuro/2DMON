@@ -151,7 +151,7 @@ Sanjayzorojuro/
 
 ![Title](res/Gameplay/21.png)
 
-![Title](res/Gameplay22.png)
+![Title](res/Gameplay/22.png)
 
 ![Title](res/Gameplay/23.png)
 
