@@ -5,7 +5,7 @@ This project showcases custom game logic, a multi-map storyline, interactable it
 
 Note: Some visual assets are sourced from Pokémon and other creators across the internet. Full credit is provided below.
 
- #  📖 Storyline
+ #   Storyline
 
 You begin your journey as an adventurer exploring mysterious lands.
 Your progression spans across four unique maps:
@@ -33,8 +33,8 @@ Map 4 – The Final Showdown
 
 With all your collected equipment, face the Final Boss and finish your journey.
 
-#  ✨ Key Features
-🛑 Save & Load System
+#   Key Features
+ Save & Load System
 
 A complete game-saving feature lets players:
 
@@ -42,7 +42,7 @@ Save anytime, anywhere
 
 Reload and continue exactly where they left off, including items, stats, and map position
 
-⚔️ Combat & Abilities
+ Combat & Abilities
 
 Sword: Unlocked in Map 2
 
@@ -52,11 +52,11 @@ Strength Attack: Helps push rocks and move obstacles
 
 Boots: Increase or decrease player movement speed
 
-🕯️ Dynamic Lighting System
+ Dynamic Lighting System
 
 In the Dark Cave, visibility improves gradually after picking up the Torch, creating a realistic dungeon exploration experience.
 
-🧪 Items
+ Items
 
 The game includes multiple interactable items:
 
@@ -71,11 +71,11 @@ Boots (Speed buff/debuff)
 Puzzle-related objects
 …and many more.
 
-#  🧩 Puzzle Mechanics
+#   Puzzle Mechanics
 
 A custom-coded puzzle inside the cave must be solved to progress.
 
- # 🕹️ Controls
+ #  Controls
 
 (Shown on the Title Screen of the game)
 
@@ -88,7 +88,7 @@ P             : Save game
 O             : Load game  
 ESC           : Pause / Menu
 
- #  📂 Project Structure
+ #   Project Structure
 Sanjayzorojuro/
 │
 
@@ -106,7 +106,7 @@ Sanjayzorojuro/
 └── .project             # Project configuration
 
 
-#  🖼️ Screenshots
+#   Screenshots
 
 
 ![Title](res/Gameplay/1.png)
@@ -170,7 +170,7 @@ Sanjayzorojuro/
 
 ---
 
- #  🧩 Technologies Used
+ #   Technologies Used
 
 Java (Core language)
 
@@ -180,7 +180,7 @@ Custom-built game engine logic
 
 Tile-based map transitions
 
-# 📜 Credits
+#  Credits
 
 Some assets used in this project are not created by me:
 
@@ -194,7 +194,7 @@ All rights and ownership of these assets belong to their respective creators.
 
 This project is not for commercial use, and the assets are used strictly for learning and personal development.
 
-# 🚀 How to Run
+#  How to Run
 
 Clone the repository:
 
@@ -207,6 +207,6 @@ Run the main game file from the /src directory
 
 Enjoy the adventure!
 
-# 📬 Contact
+#  Contact
 
 If you want to collaborate, suggest improvements, or report issues, feel free to open an Issue or Pull Request.
